@@ -2,10 +2,6 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 🌷 I’m the creator of the [ASMRCodingBliss YouTube channel](https://www.youtube.com/c/MagdelineHuang), where I share web development tutorials. Here, you’ll discover all the code snippets featured in my videos, making it easy for you to follow along and enhance your coding skills. Join our community and unlock the potential of web development with clear, relaxing, and informative content
 
-
-#### 🔗 My Youtube channel
-[![YouTube]('/icon-youtube.png')](https://www.youtube.com/@Asmrcodingbliss)
-
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
