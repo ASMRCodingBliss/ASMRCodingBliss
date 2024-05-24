@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenvin Nguyen!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-🌷 I’m the creator of the ASMRCodingBliss YouTube channel, where I share web development tutorials. Here, you’ll discover all the code snippets featured in my videos, making it easy for you to follow along and enhance your coding skills. Join our community and unlock the potential of web development with clear, relaxing, and informative content
+🌷 I’m the creator of the [ASMRCodingBliss YouTube channel](https://www.youtube.com/c/MagdelineHuang), where I share web development tutorials. Here, you’ll discover all the code snippets featured in my videos, making it easy for you to follow along and enhance your coding skills. Join our community and unlock the potential of web development with clear, relaxing, and informative content
 
 
 #### 🔗 My Youtube channel
@@ -37,3 +37,5 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
+
+
